@@ -22,29 +22,29 @@ Commented code exemples for JavaScript
 - [:clapper: screencast](https://scrimba.com/p/pmeNsB/cbWrGcg)
 
 ### Functions
-- [:mag: examples](https://github.com/nan-ci/js-examples/05-functions.js)
+- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/05-functions.js)
 
 ### Methods
-- [:mag: examples](https://github.com/nan-ci/js-examples/06-methods.js)
+- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/06-methods.js)
 
 ### Ternary
-- [:mag: examples](https://github.com/nan-ci/js-examples/07-ternary.js)
+- [:mag: examples](https://github.com/nan-ci/js-examples/blob/masters/07-ternary.js)
 
 ### If / Else
-- [:mag: examples](https://github.com/nan-ci/js-examples/08-if-else.js)
+- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/08-if-else.js)
 
 ### Functions as Values
-- [:mag: examples](https://github.com/nan-ci/js-examples/09-functions-as-values.js)
+- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/09-functions-as-values.js)
 
 ### Callback
-- [:mag: examples](https://github.com/nan-ci/js-examples/10-callback.js)
+- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/10-callback.js)
 
 ### Event
-- [:mag: examples](https://github.com/nan-ci/js-examples/11-event.js)
+- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/11-event.js)
 
 ### Stream
-- [:mag: examples](https://github.com/nan-ci/js-examples/12-stream.js)
+- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/12-stream.js)
 
 ### Promise
-- [:mag: examples](https://github.com/nan-ci/js-examples/13-promise.js)
+- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/13-promise.js)
 
