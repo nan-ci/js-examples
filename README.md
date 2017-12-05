@@ -3,23 +3,23 @@ Commented code exemples for JavaScript
 
 ### Primitive and Operators
 - [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/00-primitive-and-operators.js)
-- [:clapper: screencast](https://scrimba.com/p/pmeNsB/cwyaEAd)
+- [:clapper: screencast](https://scrimba.com/c/cwyaEAd)
 
 ### Variables
 - [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/01-variables.js)
-- [:clapper: screencast](https://scrimba.com/p/pmeNsB/cLrBKA8)
+- [:clapper: screencast](https://scrimba.com/c/cLrBKA8)
 
 ### Data-Structures
 - [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/02-data-structures.js)
-- [:clapper: screencast](https://scrimba.com/p/pmeNsB/c9Py3sG)
+- [:clapper: screencast](https://scrimba.com/c/c9Py3sG)
 
 ### Get
 - [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/03-get.js)
-- [:clapper: screencast](https://scrimba.com/p/pmeNsB/cvzg2Tq)
+- [:clapper: screencast](https://scrimba.com/c/cvzg2Tq)
 
 ### Set
 - [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/04-set.js)
-- [:clapper: screencast](https://scrimba.com/p/pmeNsB/cbWrGcg)
+- [:clapper: screencast](https://scrimba.com/c/cbWrGcg)
 
 ### Functions
 - [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/05-functions.js)
