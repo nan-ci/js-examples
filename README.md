@@ -28,7 +28,7 @@ Commented code exemples for JavaScript
 - [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/06-methods.js)
 
 ### Ternary
-- [:mag: examples](https://github.com/nan-ci/js-examples/blob/masters/07-ternary.js)
+- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/07-ternary.js)
 
 ### If / Else
 - [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/08-if-else.js)
