@@ -23,13 +23,13 @@ while (count < 10) {
 
 // Let's create a function that add the given argument 5 times with while
 const times5 = n => {
-  let result = 0
-  let count = 0
+  let result = 0 // create for holding the result or our operation
+  let count = 0 // create a counter to keep track of how many loops we did
 
-  while (count < 5) {
-    count = count + 1
-    result = result + n
+  while (count < 5) { // check the condition, see if we have made enough loops
+    count = count + 1 // increment our loop counter variable by one
+    result = result + n // add our given value `n` to our result
   }
-
-  return result
+  // loop is over !
+  return result // return our result
 }
