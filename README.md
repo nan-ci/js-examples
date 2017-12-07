@@ -2,49 +2,55 @@
 Commented code exemples for JavaScript
 
 ### Primitive and Operators
-- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/00-primitive-and-operators.js)
+- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/primitive-and-operators.js)
 - [:clapper: screencast](https://scrimba.com/c/cwyaEAd)
 
 ### Variables
-- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/01-variables.js)
+- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/variables.js)
 - [:clapper: screencast](https://scrimba.com/c/cLrBKA8)
 
 ### Data-Structures
-- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/02-data-structures.js)
+- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/data-structures.js)
 - [:clapper: screencast](https://scrimba.com/c/c9Py3sG)
 
 ### Get
-- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/03-get.js)
+- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/get.js)
 - [:clapper: screencast](https://scrimba.com/c/cvzg2Tq)
 
 ### Set
-- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/04-set.js)
+- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/set.js)
 - [:clapper: screencast](https://scrimba.com/c/cbWrGcg)
 
 ### Functions
-- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/05-functions.js)
+- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/functions.js)
 
 ### Methods
-- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/06-methods.js)
+- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/methods.js)
 
 ### Ternary
-- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/07-ternary.js)
+- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/ternary.js)
 
 ### If / Else
-- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/08-if-else.js)
+- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/if-else.js))
+
+### While
+- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/while.js)
+
+### Recursion
+- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/recursion.js)
 
 ### Functions as Values
-- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/09-functions-as-values.js)
+- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/functions-as-values.js)
 
 ### Callback
-- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/10-callback.js)
+- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/callback.js)
 
 ### Event
-- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/11-event.js)
+- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/event.js)
 
 ### Stream
-- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/12-stream.js)
+- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/stream.js)
 
 ### Promise
-- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/13-promise.js)
+- [:mag: examples](https://github.com/nan-ci/js-examples/blob/master/promise.js)
 

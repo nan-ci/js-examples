@@ -2,7 +2,6 @@
 
 // Data structures allow us to structure and organise multiple primitive data
 
-
 /*
   Object
 
@@ -72,7 +71,7 @@ console.log({
   },
 })
 
-// And like all values, we can store them in variables 
+// And like all values, we can store them in variables
 const myStreet = {
   number: 175,
   label: 'boulevard',

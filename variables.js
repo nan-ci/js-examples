@@ -1,10 +1,8 @@
 'use strict'
 
-
 /*
   Variables
 */
-
 // A variable allow you to store any values at the given identifier
 // To achieve such a feat we first need to declare our variable
 // We do that using the keyword `let` and then pick an identifier of our liking
